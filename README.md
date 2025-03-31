@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Sachin
 ## 🚀 About Me
-# I'm **PostGrad @ IIT Bombay in Aerospace Engineering** and Graduated from **IIT Kanpur**
-# I have experience in C++ with Data Structures and Algorithm also have moderate level of experience with HTML, CSS.
+ I'm **PostGrad @ IIT Bombay in Aerospace Engineering** and Graduated from **IIT Kanpur**
+ I have experience in C++ with Data Structures and Algorithm also have moderate level of experience with HTML, CSS.
 
 ## 🛠 Skills
 - 🔹 **Programming Languages**: C++
