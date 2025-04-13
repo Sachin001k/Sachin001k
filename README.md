@@ -15,9 +15,6 @@
 ## 📂 Projects
 - 🚀 [Aerospace Blog Website](https://github.com/Sachin001k/aerospace-blog) - A blog platform designed for aerospace engineers to share knowledge and insights.
 
-## 🌍 Open Source & GSoC
-I haven't contributed to any open-source contribution till now, I'm eager to learn and I'm actively exploring open-source contributions 
-I'm aiming to participate in **Google Summer of Code (GSoC)**
 
 
 ## 📫 Contact
