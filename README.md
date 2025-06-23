@@ -9,12 +9,8 @@
 - 🔹 **Problem Solving**: Data Structures & Algorithms
 
 ## 🎯 Competitive Programming
-- Solved **300+ problems** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/krsc11h3/)
+- Solved **600+ problems** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/krsc11h3/)
 - Solved **200+ problems** on [LeetCode](https://leetcode.com/u/kumarsa/)
-
-## 📂 Projects
-- 🚀 [Aerospace Blog Website](https://github.com/Sachin001k/aerospace-blog) - A blog platform designed for aerospace engineers to share knowledge and insights.
-
 
 
 ## 📫 Contact
