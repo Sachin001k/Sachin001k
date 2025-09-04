@@ -4,7 +4,7 @@
 
 ## 🛠 Skills
 - 🔹 **Programming Languages**: C++
-- 🔹 **Web Development**: HTML, CSS, JavaScript
+- 🔹 **Web Development**: HTML, CSS, JavaScript, React, Node.js
 - 🔹 **Problem Solving**: Data Structures & Algorithms
 
 ## 🎯 Competitive Programming
