@@ -8,8 +8,8 @@
 - 🔹 **Problem Solving**: Data Structures & Algorithms
 
 ## 🎯 Competitive Programming
-- Solved **600+ problems** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/krsc11h3/)
-- Solved **200+ problems** on [LeetCode](https://leetcode.com/u/kumarsa/)
+- Solved **700+ problems** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/krsc11h3/)
+- Solved **300+ problems** on [LeetCode](https://leetcode.com/u/kumarsa/)
 
 
 ## 📫 Contact
