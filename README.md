@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sachin
 ## 🚀 About Me
- I'm **App Developer at Athena Education** 
+ I'm **App Developer @Athena Education** 
 
 ## 🛠 Skills
 - 🔹 **Programming Languages**: C++
