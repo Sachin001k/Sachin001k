@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sachin
 ## 🚀 About Me
- I'm **PostGrad @ IIT Bombay in Aerospace Engineering** 
+ I'm **App Developer at Athena Education** 
 
 ## 🛠 Skills
 - 🔹 **Programming Languages**: C++
