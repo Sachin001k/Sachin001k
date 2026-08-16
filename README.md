@@ -3,7 +3,7 @@
  I'm **Web Developer @Athena Education** 
 
 ## 🛠 Skills
-- 🔹 **Programming Languages**: C++
+- 🔹 **Programming Languages**: C++, Java, Python
 - 🔹 **Web Development**: HTML, CSS, JavaScript, React, Node.js
 - 🔹 **Problem Solving**: Data Structures & Algorithms
 
