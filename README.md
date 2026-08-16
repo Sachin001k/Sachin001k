@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sachin
 ## 🚀 About Me
- I'm **App Developer @Athena Education** 
+ I'm **Web Developer @Athena Education** 
 
 ## 🛠 Skills
 - 🔹 **Programming Languages**: C++
@@ -9,7 +9,7 @@
 
 ## 🎯 Competitive Programming
 - Solved **800+ problems** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/krsc11h3/)
-- Solved **400+ problems** on [LeetCode](https://leetcode.com/u/kumarsa/)
+- Solved **700+ problems** on [LeetCode](https://leetcode.com/u/kumarsa/)
 
 
 ## 📫 Contact
