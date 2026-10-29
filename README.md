@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sachin
 ## 🚀 About Me
- I'm ** SDE@Athena Education** 
+ I'm **SDE@Athena Education** 
 
 ## 🛠 Skills
 - 🔹 **Programming Languages**: C++, Java, Python
