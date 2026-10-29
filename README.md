@@ -11,11 +11,10 @@ I build web apps with React and Tailwind CSS, mobile apps with Flutter, and back
 ### 🚀 Featured Projects
 
 **📱 Mobile Apps (Flutter)**
-- [**LivrCheck**](https://github.com/Sachin001k/livrcheck): _one-line description of what the app does_
-- [**Ekagna**](https://github.com/Sachin001k/ekagna): _one-line description of what the app does_
-
+- [**LivrCheck**](https://github.com/Sachin001k/livrcheck): Tells you about fatty liver and healthy diet for everyday
+- [**Ekagna**](https://github.com/Sachin001k/ekagna): It's learning game app with the features of playing duels in Mathematics
 **🌐 Web**
-- Built multiple portfolio websites with React and Tailwind CSS → [see my repositories](https://github.com/Sachin001k?tab=repositories)
+- Built multiple web app + portfolio websites with React and Tailwind CSS → [see my repositories](https://github.com/Sachin001k?tab=repositories)
 
 ### 🛠 Tech Stack
 - **Languages:** Java, C++, Python, JavaScript, Dart
