@@ -4,8 +4,8 @@
 
 ## 🛠 Skills
 - 🔹 **Programming Languages**: C++, Java, Python
-- 🔹 **Web Development**: HTML, CSS, JavaScript, React, Node.js
-- 🔹 **Problem Solving**: Data Structures & Algorithms
+- 🔹 **Development**: HTML, CSS, JavaScript, React, Node.js, TailwindCSS, Flutter, Dart
+- 🔹 **Problem Solving**: Data Structures & Algorithms, Advance OOPs, Low Level Design, High Level Design
 
 ## 🎯 Competitive Programming
 - Solved **800+ problems** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/krsc11h3/)
